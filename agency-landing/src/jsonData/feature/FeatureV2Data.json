@@ -1,0 +1,72 @@
+[
+    { 
+        "id": 1,
+        "thumb": "project-1.jpg",
+        "name": "Legal Waters",
+        "textFirst": "We collaborated closely with our client to",
+        "textLast": "transform their vision into a reality.",
+        "info": "Web Development",
+        "date": "2025",
+        "delay": "100"
+    },
+    {
+        "id": 2,
+        "thumb": "project-2.jpg",
+        "name": "Yama Sushi",
+        "textFirst": "One of our most successful projects in this area",
+        "textLast": "highlights our ability to design and develop.",
+        "info": "Web Development",
+        "date": "Fall 2024",
+        "delay": "100"
+    },
+    {
+        "id": 3,
+        "thumb": "project-3.jpg",
+        "name": "Blue Cross Pet Hospital",
+        "textFirst": "An elegant project designed to facilitate seamless",
+        "textLast": "user experiences and intuitive interfaces.",
+        "info": "Web Development",
+        "date": "Fall 2024",
+        "delay": "200"
+    },
+    {
+        "id": 4,
+        "thumb": "project-4.jpg",
+        "name": "Black Project 2025",
+        "textFirst": "We collaborated closely with our client to",
+        "textLast": "deploy their vision.",
+        "info": "Site Deployment",
+        "date": "2025",
+        "delay": "100"
+    },
+    {
+        "id": 5,
+        "thumb": "project-1b.jpg",
+        "name": "Legal Waters",
+        "textFirst": "We collaborated closely with our client to",
+        "textLast": "transform their vision into a reality.",
+        "info": "Web Development",
+        "date": "2025",
+        "delay": "200"
+    },
+    {
+        "id": 6,
+        "thumb": "project-2b.jpg",
+        "name": "Yama Sushi",
+        "textFirst": "One of our most successful projects in this area",
+        "textLast": "highlights our ability to design and develop.",
+        "info": "Web Development",
+        "date": "Fall 2024",
+        "delay": "100"
+    },
+    {
+        "id": 7,
+        "thumb": "project-4b.jpg",
+        "name": "Black Project 2025",
+        "textFirst": "We collaborated closely with our client to",
+        "textLast": "deploy their vision.",
+        "info": "Site Deployment",
+        "date": "2025",
+        "delay": "200"
+    }
+]

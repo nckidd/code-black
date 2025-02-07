@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "activeClass": "active",
+        "thumb": "fun-fact1.jpg",
+        "delay": "100",
+        "title": "Shipping Since",
+        "end": "2011"
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "thumb": "fun-fact2.jpg",
+        "delay": "200",
+        "title": "Completed Projects",
+        "end": "5"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "thumb": "fun-fact3.jpg",
+        "delay": "400",
+        "title": "Site Views",
+        "end": "100k"
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "thumb": "fun-fact4.jpg",
+        "delay": "600",
+        "title": "Avg. Satisfaction",
+        "end": "100"
+    }
+]
